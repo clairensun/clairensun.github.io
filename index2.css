@@ -1,0 +1,60 @@
+
+.my-title{
+	color: blue;
+}
+
+.first-text{
+	font-style: italic;
+
+}
+
+.withmargin{
+	padding-top: 80px;
+}
+
+.second-title{
+	color: #89f442;
+	
+}
+
+.second-text{
+	font-style: italic;
+	color: #e59e10;
+	font-size: 24px;
+}
+.third-title{
+	color: #89f442;
+	font-size: 40px;
+}
+.size{
+	color: #e5de10;
+	text-align: center;
+}
+body{
+	font-family: 'Spicy Rice', cursive;
+}
+.hero1{
+	background: url(https://i.pinimg.com/564x/03/4d/bb/034dbb9317aa79562380f201d0c8b391.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  	height: 200px;
+
+}
+
+.hero { 
+  background: url(https://i.pinimg.com/564x/03/4d/bb/034dbb9317aa79562380f201d0c8b391.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  	height: 200px;
+}
+.imagefit{
+	width:100%;
+}
+.card{
+	margin-bottom:12px;
+}
